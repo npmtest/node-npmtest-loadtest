@@ -1,4 +1,7 @@
-# test coverage for  [loadtest (v2.3.0)](https://github.com/alexfernandez/loadtest)  [![npm package](https://img.shields.io/npm/v/npmtest-loadtest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-loadtest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-loadtest.svg)](https://travis-ci.org/npmtest/node-npmtest-loadtest)
+# npmtest-loadtest
+
+#### test coverage for  [loadtest (v2.3.0)](https://github.com/alexfernandez/loadtest)  [![npm package](https://img.shields.io/npm/v/npmtest-loadtest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-loadtest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-loadtest.svg)](https://travis-ci.org/npmtest/node-npmtest-loadtest)
+
 #### Run load tests for your web application. Mostly ab-compatible interface, with an option to force requests per second. Includes an API for automated load testing.
 
 [![NPM](https://nodei.co/npm/loadtest.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/loadtest)
